@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Tashkent"
+        android:title="Tashkent"/>
+
+    <item android:id="@+id/Andijon"
+        android:title="Andijin"/>
+
+    <item android:id="@+id/Jizzah"
+        android:title="Jizzah"/>
+
+    <item android:id="@+id/Xarazm"
+        android:title="Xarazm"/>
+
+    <item android:id="@+id/Qarshi"
+        android:title="Qarshi"/>
+
+    <item android:id="@+id/Namangan"
+        android:title="Namangan"/>
+</menu>
